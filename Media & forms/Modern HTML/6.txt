@@ -1,0 +1,9 @@
+div: for blog the elment 
+
+header:head of the page
+
+table :to make  table
+
+main :main containt of web page 
+
+footer: bottom of web page

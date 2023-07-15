@@ -1,0 +1,5 @@
+Tab idex
+         Tab index is aglobal attribute that allows
+         an HTML element to recieve focus.it needs a
+          value of zero to negative no. in order to 
+          work in an accebile.

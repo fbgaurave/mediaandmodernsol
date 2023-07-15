@@ -1,0 +1,6 @@
+to improve accessebility 
+we can use systematic coding
+like 1.heading 
+2.paragraph
+3.semantic html
+etc in semantic
